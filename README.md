@@ -32,7 +32,7 @@ From a practical point of view, the skills and concepts I gained from this task 
 
 Overall, this task was an eye-opener for me. It showed how deep learning is not just about theory but about real implementations that can solve meaningful problems. It made me realize the importance of data preprocessing, model tuning, and evaluation. More importantly, it gave me the confidence that I can build models from scratch using Python and TensorFlow, and understand the results thoroughly.
 
-#OUTPUT
+# OUTPUT
 
 <img width="1920" height="935" alt="Image" src="https://github.com/user-attachments/assets/8f235497-0a1c-4ba0-ad89-7a8752b1c494" />
 
